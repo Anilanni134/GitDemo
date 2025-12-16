@@ -17,7 +17,7 @@
       "MetricsConfigurations" : [ MetricsConfiguration, ... ],
       "NotificationConfiguration" : NotificationConfiguration,
       "ObjectLockConfiguration" : ObjectLockConfiguration,
-      "ObjectLockEnabled" : Boolean,
+      "ObjectLockEnabled" : String,
       "OwnershipControls" : OwnershipControls,
       "PublicAccessBlockConfiguration" : PublicAccessBlockConfiguration,
       "ReplicationConfiguration" : ReplicationConfiguration,
